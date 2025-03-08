@@ -1,0 +1,73 @@
+[
+    {
+      "email": "study.trigger@example.com",
+      "feedback": "Great platform! Very user-friendly.",
+      "rating": 5,
+      "status": "approved",
+      "approvalDate": "2025-03-06T10:15:30Z"
+    },
+    {
+      "email": "trigger.study@example.com",
+      "feedback": "The response time can be improved.",
+      "rating": 3,
+      "status": "pending",
+      "approvalDate": null
+    },
+    {
+      "email": "study.institute@example.com",
+      "feedback": "I love the new updates. Keep up the good work!",
+      "rating": 5,
+      "status": "approved",
+      "approvalDate": "2025-03-05T14:22:10Z"
+    },
+    {
+      "email": "abhay.verma@example.com",
+      "feedback": "Needs better mobile compatibility.",
+      "rating": 2,
+      "status": "pending",
+      "approvalDate": null
+    },
+    {
+      "email": "sunil.sunil@example.com",
+      "feedback": "The customer support was very helpful.",
+      "rating": 4,
+      "status": "approved",
+      "approvalDate": "2025-03-04T09:30:00Z"
+    },
+    {
+      "email": "ajay.ajay@example.com",
+      "feedback": "I encountered a few bugs while using the service.",
+      "rating": 3,
+      "status": "pending",
+      "approvalDate": null
+    },
+    {
+      "email": "anil.anil@example.com",
+      "feedback": "Excellent service, will recommend to others!",
+      "rating": 5,
+      "status": "approved",
+      "approvalDate": "2025-03-06T08:45:50Z"
+    },
+    {
+      "email": "ankit.ankit@example.com",
+      "feedback": "Some features are confusing to use.",
+      "rating": 2,
+      "status": "pending",
+      "approvalDate": null
+    },
+    {
+      "email": "yash.yash@example.com",
+      "feedback": "User experience has improved a lot!",
+      "rating": 4,
+      "status": "approved",
+      "approvalDate": "2025-03-03T12:00:00Z"
+    },
+    {
+      "email": "nancy.nancy@example.com",
+      "feedback": "Would love to see more customization options.",
+      "rating": 3,
+      "status": "pending",
+      "approvalDate": null
+    }
+  ]
+  
