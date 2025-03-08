@@ -43,6 +43,8 @@ This system is divided into **two parts**:
 **Screenshots :**
 
 ![image](https://github.com/user-attachments/assets/d5ae8049-140d-4e07-915f-37d8c1721317)
+
+
 ![image](https://github.com/user-attachments/assets/b3f3d140-94e6-41b1-8067-10c8162a658f)
 
 
